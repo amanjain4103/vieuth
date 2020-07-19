@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    height: 100vh;;
+    background: #FDFC47;  
+    background: -webkit-linear-gradient(to bottom, #24FE41, #FDFC47); 
+    background: linear-gradient(to bottom, #24FE41, #FDFC47);
+}
+
+.main-container {
+    position: relative; 
+    top: 80px;
+}
+
+.workspace {
+    padding: 20px 100px;
+}

@@ -1,0 +1,17 @@
+.left-bar-container {
+    width: fit-content;
+    float: left;
+    margin-left: 2rem;
+}
+
+.process-name-input {
+    padding: 10px;
+    font-size: 1.1rem;
+}
+
+.key-value-pair-container {
+    padding: 30px;
+    background: #ff0084; 
+    box-shadow: black 0px 0px 12px 1px;
+    margin-bottom: 1rem;
+}

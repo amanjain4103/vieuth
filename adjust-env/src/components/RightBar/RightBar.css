@@ -1,0 +1,8 @@
+.right-bar-container {
+    background-color:white;
+    min-width: 45vw;
+    min-height: 65vh;
+    float: right;
+    margin-right: 2rem;
+    padding: 20px;
+}

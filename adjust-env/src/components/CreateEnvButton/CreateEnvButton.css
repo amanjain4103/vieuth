@@ -1,0 +1,22 @@
+.create-env-container {
+    padding: 20px;
+    text-align: center;
+    /* align-items: center; */
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border:3px solid black;
+    background: #00c6ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);  
+    background: linear-gradient(to right, #0072ff, #00c6ff); 
+    color: black;
+    transition: all 0.4s ease;
+}
+
+.btn:hover {
+ background: black;
+ color: white;
+  cursor: pointer;
+}
